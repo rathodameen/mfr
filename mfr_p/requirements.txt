@@ -1,5 +1,5 @@
 streamlit==1.32.0
-torch==2.2.2           # ✅ Available for Python 3.10
+torch==2.7.0           # ✅ Available for Python 3.10
 torchvision==0.17.2
 pillow==10.2.0
 opencv-python-headless==4.9.0.80
